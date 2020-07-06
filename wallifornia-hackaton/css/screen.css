@@ -4,9 +4,11 @@ body {
 }
 section {
   text-align: center;
+  background-color: aqua;
 }
 .main_nav {
   text-align: center;
+  background-color: azure;
 }
 .container_page {
   display: flex;
