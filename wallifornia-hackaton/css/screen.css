@@ -1,0 +1,10 @@
+section {
+  text-align: center;
+}
+.main_nav {
+  text-align: center;
+}
+.container_page {
+  display: flex;
+  justify-content: row;
+}
