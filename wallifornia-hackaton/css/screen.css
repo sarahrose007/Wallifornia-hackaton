@@ -27,7 +27,7 @@ section {
   height: 300px;
 }
 .my_flux {
-  background-color: brown;
+  background-color: #E5E5E5;
   width: 67%;
   height: 600px;
 }
@@ -38,8 +38,8 @@ img {
   width: 100%;
 }
 .button_left {
-  color: rgb(0, 0, 255);
+  color: #43D8C9;
 }
 .button_right {
-  color: rgb(0, 0, 255);
+  color: #43D8C9;
 }
