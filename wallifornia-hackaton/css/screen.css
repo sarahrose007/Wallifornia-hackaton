@@ -8,9 +8,18 @@ section {
 }
 .main_nav {
   text-align: center;
-  background-color: azure;
+  background-color: darkcyan;
 }
 .container_page {
   display: flex;
   justify-content: row;
+}
+.up {
+  background-color: blue;
+}
+.down {
+  background-color: blueviolet;
+}
+.my_flux {
+  background-color: brown;
 }
