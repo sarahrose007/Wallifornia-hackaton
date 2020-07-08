@@ -1,0 +1,86 @@
+* {
+  color: darkred;
+  font-size: 18px;
+}
+body {
+  margin: 0px;
+}
+.main_nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #43d8c9;
+  height: 10vh;
+}
+.container_game {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 300px;
+}
+.logo_game {
+  background-color: darksalmon;
+  width: 35%;
+  height: auto;
+  text-align: center;
+}
+.presentation_game {
+  background-color: goldenrod;
+  width: 65%;
+  text-align: center;
+}
+.nav_game {
+  display: flex;
+  justify-content: center;
+  background-color: green;
+  text-align: center;
+}
+.nav_game ul {
+  display: flex;
+}
+.my_info {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 600px;
+  text-align: center;
+  background-color: grey;
+  margin: auto;
+}
+.bar_tech {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(222, 255, 33);
+  text-align: center;
+}
+.container_tech {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 600px;
+}
+.my_tech {
+  background-color: seagreen;
+  width: 65%;
+  text-align: center;
+}
+.aside_tech {
+  background-color: orangered;
+  width: 35%;
+  height: auto;
+  text-align: center;
+}
+.bar_game {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(243, 163, 72);
+  text-align: center;
+}
+.my_platform {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 600px;
+  text-align: center;
+  background-color: rgb(145, 136, 136);
+  margin: auto;
+}
